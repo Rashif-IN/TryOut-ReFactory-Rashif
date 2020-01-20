@@ -1,0 +1,11 @@
+/Users/user/Projects/number11/number11/bin/Debug/netcoreapp3.1/number11
+/Users/user/Projects/number11/number11/bin/Debug/netcoreapp3.1/number11.deps.json
+/Users/user/Projects/number11/number11/bin/Debug/netcoreapp3.1/number11.runtimeconfig.json
+/Users/user/Projects/number11/number11/bin/Debug/netcoreapp3.1/number11.runtimeconfig.dev.json
+/Users/user/Projects/number11/number11/bin/Debug/netcoreapp3.1/number11.dll
+/Users/user/Projects/number11/number11/bin/Debug/netcoreapp3.1/number11.pdb
+/Users/user/Projects/number11/number11/obj/Debug/netcoreapp3.1/number11.csprojAssemblyReference.cache
+/Users/user/Projects/number11/number11/obj/Debug/netcoreapp3.1/number11.AssemblyInfoInputs.cache
+/Users/user/Projects/number11/number11/obj/Debug/netcoreapp3.1/number11.AssemblyInfo.cs
+/Users/user/Projects/number11/number11/obj/Debug/netcoreapp3.1/number11.dll
+/Users/user/Projects/number11/number11/obj/Debug/netcoreapp3.1/number11.pdb
