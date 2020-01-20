@@ -1,0 +1,11 @@
+/Users/user/Projects/TryOut_Rashif_IN/TryOut_Rashif_IN/bin/Debug/netcoreapp3.1/TryOut_Rashif_IN
+/Users/user/Projects/TryOut_Rashif_IN/TryOut_Rashif_IN/bin/Debug/netcoreapp3.1/TryOut_Rashif_IN.deps.json
+/Users/user/Projects/TryOut_Rashif_IN/TryOut_Rashif_IN/bin/Debug/netcoreapp3.1/TryOut_Rashif_IN.runtimeconfig.json
+/Users/user/Projects/TryOut_Rashif_IN/TryOut_Rashif_IN/bin/Debug/netcoreapp3.1/TryOut_Rashif_IN.runtimeconfig.dev.json
+/Users/user/Projects/TryOut_Rashif_IN/TryOut_Rashif_IN/bin/Debug/netcoreapp3.1/TryOut_Rashif_IN.dll
+/Users/user/Projects/TryOut_Rashif_IN/TryOut_Rashif_IN/bin/Debug/netcoreapp3.1/TryOut_Rashif_IN.pdb
+/Users/user/Projects/TryOut_Rashif_IN/TryOut_Rashif_IN/obj/Debug/netcoreapp3.1/TryOut_Rashif_IN.csprojAssemblyReference.cache
+/Users/user/Projects/TryOut_Rashif_IN/TryOut_Rashif_IN/obj/Debug/netcoreapp3.1/TryOut_Rashif_IN.AssemblyInfoInputs.cache
+/Users/user/Projects/TryOut_Rashif_IN/TryOut_Rashif_IN/obj/Debug/netcoreapp3.1/TryOut_Rashif_IN.AssemblyInfo.cs
+/Users/user/Projects/TryOut_Rashif_IN/TryOut_Rashif_IN/obj/Debug/netcoreapp3.1/TryOut_Rashif_IN.dll
+/Users/user/Projects/TryOut_Rashif_IN/TryOut_Rashif_IN/obj/Debug/netcoreapp3.1/TryOut_Rashif_IN.pdb

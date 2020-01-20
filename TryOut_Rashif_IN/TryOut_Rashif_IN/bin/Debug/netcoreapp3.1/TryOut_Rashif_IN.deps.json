@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TryOut_Rashif_IN/1.0.0": {
+        "runtime": {
+          "TryOut_Rashif_IN.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TryOut_Rashif_IN/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
